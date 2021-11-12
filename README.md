@@ -15,9 +15,18 @@
 </p>
 <br>
 <br>
-[![LinkedIn](<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />)](https://www.linkedin.com/in/chirazi-alexandru-a6b013216/)
-[![Instagram](<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">)](https://www.instagram.com/_alex.chi_/)
-[![Facebook](<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">)](https://www.facebook.com/chirazi.alexandru)
 
+<a align="middle" href="https://www.linkedin.com/in/chirazi-alexandru-a6b013216/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a align="middle" href="https://open.spotify.com/user/dtkixjsti1ip2kfp27rgenr37">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a align="middle" href="https://www.instagram.com/_alex.chi_/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+<a align="middle" href="https://www.facebook.com/chirazi.alexandru">
+  <img align="left" alt="K4Sh4d0ws Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 
 <p align="middle"> <b>"Do not pray for an easy life. Pray for the strength to endure a difficult one."</b> - <i>Bruce Lee</i> </p>
