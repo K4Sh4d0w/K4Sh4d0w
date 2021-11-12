@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 </div>
 
 
-### 'Do not pray for an easy life. Pray for the strength to endure a difficult one.' - _Bruce Lee_
+### "Do not pray for an easy life. Pray for the strength to endure a difficult one." - _Bruce Lee_
