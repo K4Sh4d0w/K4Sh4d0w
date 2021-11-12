@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=K4Sh4d0w&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/K4Sh4d0w)
 
-![Dyno Animation](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![Dyno Animation](https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true)
