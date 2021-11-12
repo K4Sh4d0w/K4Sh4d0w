@@ -17,16 +17,21 @@
 <br>
 
 <a align="middle" href="https://www.linkedin.com/in/chirazi-alexandru-a6b013216/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="middle" alt="K4S4h4d0w's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a align="middle" href="https://open.spotify.com/user/dtkixjsti1ip2kfp27rgenr37">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="middle" alt="K4S4h4d0w's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a align="middle" href="https://www.instagram.com/_alex.chi_/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+<a align="middle" align="middle"href="https://www.twitch.tv/k4sh4d0w">
+ <img align="middle" alt="K4S4h4d0w's Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg">
 </a>
-<a align="middle" href="https://www.facebook.com/chirazi.alexandru">
-  <img align="left" alt="K4Sh4d0ws Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<a align="middle" href="https://www.youtube.com/channel/UCNoDz9xPA2ncGmgdb-zvLSg">
+ <img align="middle" alt="K4S4h4d0w's Youtube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
+<a  href="https://www.facebook.com/chirazi.alexandru">
+  <img align="middle" alt="K4Sh4d0w's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<br>
+<br>
 
 <p align="middle"> <b>"Do not pray for an easy life. Pray for the strength to endure a difficult one."</b> - <i>Bruce Lee</i> </p>
