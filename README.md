@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 	<br>
 </div>
+
+
+### `Do not pray for an easy life. Pray for the strength to endure a difficult one.`- _Bruce Lee_
