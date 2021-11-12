@@ -6,15 +6,6 @@
     <br>
 </p>
 
-<p align="center">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api?username=K4Sh4d0w&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-        <br>
-        <br>
-        <br>
-    <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</p>
-<br>
-<br>
 <p align="middle">
 <a href="https://www.linkedin.com/in/chirazi-alexandru-a6b013216/">
   <img align="middle" alt="K4S4h4d0w's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -31,6 +22,14 @@
 <a href="https://www.facebook.com/chirazi.alexandru">
   <img align="middle" alt="K4Sh4d0w's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+</p>
+
+<p align="center">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api?username=K4Sh4d0w&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+        <br>
+        <br>
+        <br>
+    <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </p>
 <br>
 <br>
