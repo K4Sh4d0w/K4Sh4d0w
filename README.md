@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ### My GitHub Stats
 
 <p align = "center">
-  (https://github-readme-stats.vercel.app/api?username=K4Sh4d0w&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/K4Sh4d0w)
+  <img src = "https://github-readme-stats.vercel.app/api?username=K4Sh4d0w&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=K4Sh4d0w_langs_below=.25&theme=radical">
 </p>
 
