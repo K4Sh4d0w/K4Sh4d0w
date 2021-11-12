@@ -17,4 +17,4 @@
 </p>
 
 
-***"Do not pray for an easy life. Pray for the strength to endure a difficult one."*** - _Bruce Lee_
+<h3 align="middle"> ***"Do not pray for an easy life. Pray for the strength to endure a difficult one."*** - _Bruce Lee_ </h3>
